@@ -13,7 +13,8 @@
             "args": [],
             "cwd": "${workspaceFolder}/recursion",
             "console": "internalConsole",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         },
         {
             "name": ".NET Core Attach",

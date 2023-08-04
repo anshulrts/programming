@@ -1,10 +1,25 @@
-﻿namespace HelloWorld
+﻿﻿using System;
+
+namespace HelloWorld
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            while(true)
+            {
+                Console.WriteLine("0. Exit");
+                Console.WriteLine("1. Max-Min");
+                
+                Console.WriteLine("\nEnter Choice");
+                string x = Console.ReadLine();
+
+                switch(Convert.ToInt32(x))
+                {
+                    case 0: Environment.Exit(0); break;
+                    default: break;
+                }
+            }
         }
     }
 }
