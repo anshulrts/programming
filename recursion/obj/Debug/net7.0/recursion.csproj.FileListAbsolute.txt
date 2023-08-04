@@ -1,0 +1,15 @@
+/home/anshul/code/programming/recursion/bin/Debug/net7.0/recursion
+/home/anshul/code/programming/recursion/bin/Debug/net7.0/recursion.deps.json
+/home/anshul/code/programming/recursion/bin/Debug/net7.0/recursion.runtimeconfig.json
+/home/anshul/code/programming/recursion/bin/Debug/net7.0/recursion.dll
+/home/anshul/code/programming/recursion/bin/Debug/net7.0/recursion.pdb
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/recursion.csproj.AssemblyReference.cache
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/recursion.GeneratedMSBuildEditorConfig.editorconfig
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/recursion.AssemblyInfoInputs.cache
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/recursion.AssemblyInfo.cs
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/recursion.csproj.CoreCompileInputs.cache
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/recursion.dll
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/refint/recursion.dll
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/recursion.pdb
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/recursion.genruntimeconfig.cache
+/home/anshul/code/programming/recursion/obj/Debug/net7.0/ref/recursion.dll
