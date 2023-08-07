@@ -1,4 +1,5 @@
 ﻿﻿using System;
+using MinMaxNamespace;
 
 namespace HelloWorld
 {
@@ -18,6 +19,11 @@ namespace HelloWorld
                 {
                     case 0: Environment.Exit(0); break;
                     default: break;
+
+                    case 1:
+                    MinMax mm = new MinMax();
+                    mm.start();
+                    break;
                 }
             }
         }
