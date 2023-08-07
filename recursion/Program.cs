@@ -1,7 +1,7 @@
 ﻿﻿using System;
 using MinMaxNamespace;
 
-namespace HelloWorld
+namespace Main
 {
     class Program
     {
@@ -10,7 +10,8 @@ namespace HelloWorld
             while(true)
             {
                 Console.WriteLine("0. Exit");
-                Console.WriteLine("1. Max-Min");
+                Console.WriteLine("1. Factorial");
+                Console.WriteLine("2. Max-Min");
                 
                 Console.WriteLine("\nEnter Choice");
                 string x = Console.ReadLine();
@@ -21,6 +22,11 @@ namespace HelloWorld
                     default: break;
 
                     case 1:
+                    Factorial f = new Factorial();
+                    f.start();
+                    break;
+
+                    case 2:
                     MinMax mm = new MinMax();
                     mm.start();
                     break;
